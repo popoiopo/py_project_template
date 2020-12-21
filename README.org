@@ -1,0 +1,16 @@
+# Get your standard gitignore file from [[https://www.toptal.com/developers/gitignore][gitignore.io]]
+# Get your standard license from [[https://choosealicense.com/][choosealicense.com]]
+* Packagename
+** About The Project
+** Main Features
+** Installation
+** Dependencies
+** License
+** Documentation
+*** Submodule1
+|----------+-------------+--------|
+| Function | Description | In/Out |
+|----------+-------------+--------|
+|          |             |        |
+|----------+-------------+--------|
+*** Submodule2
